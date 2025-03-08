@@ -39,7 +39,7 @@ body {
     border-radius: 120px;
 }
 #personal_description {
-    padding-top: 40px;
+    padding-top: 60px;
     padding-left: 20px;
     grid-column: span 6;
 }
